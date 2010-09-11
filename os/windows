@@ -1,0 +1,7 @@
+#
+# Windows
+#
+
+# Windows Thumbnail Cache
+# See: http://en.wikipedia.org/wiki/Windows_thumbnail_cache
+Thumbs.db

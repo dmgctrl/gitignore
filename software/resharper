@@ -1,2 +1,6 @@
+#
 # ReSharper
+#
+
+# Cache Folders
 _ReSharper.*
