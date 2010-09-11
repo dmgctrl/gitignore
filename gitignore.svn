@@ -1,2 +1,6 @@
+#
 # Subversion
+#
+
+# Subversion data folders
 .svn/
