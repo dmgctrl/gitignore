@@ -1,7 +1,10 @@
+#
 # Visual Studio
+#
 
 # Solution User Options
 *.suo
+
 # Project User Options
 *.user
 
